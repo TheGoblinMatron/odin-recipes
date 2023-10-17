@@ -1,0 +1,12 @@
+.card {
+    background-color: linen;
+}
+
+.description, .ingredients, .steps {
+    background-color: aliceblue;
+    border-color: cornflowerblue;
+    margin: 10px;
+}
+
+
+
