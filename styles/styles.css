@@ -1,12 +1,16 @@
 .card {
     background-color: linen;
+    padding: 10px;
 }
 
 .description, .ingredients, .steps {
     background-color: aliceblue;
     border-color: cornflowerblue;
     margin: 10px;
+    padding: 10px;
 }
 
-
+img {
+    margin: 10px;
+}
 
